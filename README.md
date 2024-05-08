@@ -1,7 +1,7 @@
 # Contact-Management-App
 Built with ReactJS, JavaScript, TailwindCSS, React Router v6, and Redux, this contact management app boasts a dynamic dashboard featuring charts and maps displaying COVID-19 data for various countries.
 
-Deployed Link: http://localhost:3000/
+Deployed Link: (https://contact-management-app-teal.vercel.app/)
 
 Pages and Functionality:
 1. Contacts: Manage contacts, add new ones via a form, edit, delete, and view contact details.
